@@ -33,9 +33,19 @@
 Если вам нужен постоянный доступ к свежим и точным данным, лучше обратить внимание на платные решения и подписки.
 
 
+
+
+
+
 Ниже ссылки для индексации:
 
-[Аналоги ГБ](https://osint-searcher.github.io/analogi_glaz_boga/)
+[Аналоги ГБ](https://osint-searcher.github.io/analogi_Glaza_Boga/)
+
+[Аналоги UsersBox](https://osint-searcher.github.io/analogi_Usersbox/)
+
+[Аналоги Глаза Бога](https://osint-searcher.github.io/analogi_glaz_boga/)
+
+[OSINT в Телеграм](https://osint-searcher.github.io/osint-v-telegram-boty-poisk-i-instrumenty/)
 
 [Альтернативы Глаза Бога](https://linktr.ee/analogi_glaza_boga)
 
