@@ -38,15 +38,6 @@
 
 
 Ниже ссылки для индексации:
-
-[Аналоги ГБ](https://osint-searcher.github.io/analogi_Glaza_Boga/)
-
-[Аналоги UsersBox](https://osint-searcher.github.io/analogi_Usersbox/)
-
-[Аналоги Глаза Бога](https://osint-searcher.github.io/analogi_glaz_boga/)
-
-[OSINT в Телеграм](https://osint-searcher.github.io/osint-v-telegram-boty-poisk-i-instrumenty/)
-
 [Альтернативы Глаза Бога](https://linktr.ee/analogi_glaza_boga)
 
 [Боты похожие на Глаза Бога](https://analogi-glaza-boga.tilda.ws/)
