@@ -70,6 +70,7 @@
 
 Ниже ссылки для индексации:
 
-[Альтернативы Глаза Бога](https://linktr.ee/analogi_glaza_boga)
+[Инструменты с API для поиска информации](https://github.com/OSINT-searcher/poisk_informacii_s_API)
 
-[Боты похожие на Глаза Бога](https://analogi-glaza-boga.tilda.ws/)
+[Пробив соцсетей и мессенджеров](https://github.com/OSINT-searcher/probiv_socsetei_i_messengerov)
+
